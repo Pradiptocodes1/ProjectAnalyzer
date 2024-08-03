@@ -1,0 +1,6 @@
+Flask
+pyaudio
+wave
+speech_recognition
+requests
+mistralai
