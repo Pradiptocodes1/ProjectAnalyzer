@@ -4,3 +4,4 @@ wave
 speechrecognition
 requests
 mistralai
+Gunicorn
